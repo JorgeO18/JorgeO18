@@ -108,21 +108,7 @@
 
 <br/>
 
-<!--
-  =====================================================================
-  INICIO · SECCIÓN "MY PROJECTS"  (editable y removible)
 
-  CÓMO USARLA:
-  - Editar: cambia el emoji, el nombre y el enlace de cada tarjeta.
-    Para poner descripción, quita el <!-- y el --> de la línea <p>.
-    Insignias de tecnología: agrega líneas <img ... style=flat-square>.
-  - Quitar UNA tarjeta: borra desde su <td ...> hasta su </td>.
-  - Agregar tarjetas: copia una fila completa <tr> ... </tr> y pégala
-    debajo (cada fila tiene 3 tarjetas; si dejas menos, se ve bien).
-  - Quitar TODA la sección: borra desde este comentario hasta el
-    comentario "FIN · SECCIÓN MY PROJECTS".
-  - Insignias con color propio: https://img.shields.io/badge/TEXTO-COLORHEX
-  =====================================================================
 -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:8B7CFF,100:0f0c29&height=3" width="100%" alt="divider" />
 
