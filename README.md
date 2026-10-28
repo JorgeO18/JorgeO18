@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JorgeO18/JorgeO18/main/header.svg" alt="Jorge - Software & Mobile App Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/JorgeO18/JorgeO18/main/header-v2.svg" alt="Jorge - Software & Mobile App Developer" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=JorgeO18&label=Profile+Views&color=7c5cff&style=for-the-badge" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/JorgeO18?style=for-the-badge&logo=github&color=7c5cff&labelColor=0d1130" alt="Followers"/>
 
 <br/><br/>
 <img src="https://raw.githubusercontent.com/JorgeO18/JorgeO18/main/title-about.svg" width="100%" alt="About Me"/>
-<img src="https://raw.githubusercontent.com/JorgeO18/JorgeO18/main/about.svg" width="100%" alt="About"/>
+<img src="https://raw.githubusercontent.com/JorgeO18/JorgeO18/main/about-v2.svg" width="100%" alt="About"/>
 
 <br/>
 <img src="https://raw.githubusercontent.com/JorgeO18/JorgeO18/main/title-tech.svg" width="100%" alt="Languages & Technologies"/>
@@ -41,7 +41,7 @@
 
 <br/>
 <img src="https://raw.githubusercontent.com/JorgeO18/JorgeO18/main/title-featured.svg" width="100%" alt="Featured Projects"/>
-<img src="https://raw.githubusercontent.com/JorgeO18/JorgeO18/main/featured.svg" width="100%" alt="Featured projects"/>
+<img src="https://raw.githubusercontent.com/JorgeO18/JorgeO18/main/featured-v2.svg" width="100%" alt="Featured projects"/>
 
 <a href="https://github.com/JorgeO18/Aplicacion-gastronomica"><img src="https://img.shields.io/badge/VIEW_REPO-Aplicacion--gastronomica-4b3bb0?style=for-the-badge&logo=github" height="30"/></a>
 <a href="https://github.com/JorgeO18/REPO-RAICES-NUMERICAS"><img src="https://img.shields.io/badge/VIEW_REPO-Raíces_Numéricas_v2-4b3bb0?style=for-the-badge&logo=github" height="30"/></a>
