@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://github.com/JorgeO18.png?v=2" width="150" height="150" alt="Jorge Profile Picture" />
+<img src="https://wsrv.nl/?url=github.com/JorgeO18.png?v=2&w=300&h=300&fit=cover&mask=circle" width="150" height="150" alt="Jorge Profile Picture" />
 
 <h1>Hi 👋, I'm Jorge</h1>
 <h3>🚀 Software & Mobile App Developer</h3>
