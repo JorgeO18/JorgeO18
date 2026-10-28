@@ -2,10 +2,6 @@
 
 <img src="https://github.com/JorgeO18.png?v=2" width="150" height="150" alt="Jorge Profile Picture" />
 
-<a href="https://github.com/JorgeO18">
-  <img src="https://images.weserv.nl/?url=github.com/JorgeO18.png&w=300&h=300&fit=cover&mask=circle" width="150" height="150" alt="Jorge Profile Picture" />
-</a>
-
 <h1>Hi 👋, I'm Jorge</h1>
 <h3>🚀 Software & Mobile App Developer</h3>
 
